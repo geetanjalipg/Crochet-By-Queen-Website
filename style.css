@@ -1,0 +1,180 @@
+
+body {
+    text-align: center;
+    margin: 0;
+    padding-top: 800px;
+   font-family: 'Concert One', cursive;
+    background-color: darksalmon;
+    
+
+}
+
+#Welcome {
+    position: absolute;
+    top: 0;
+
+    width: 100%;
+    height: 800px;
+    font-family: 'Concert One', cursive;
+
+}
+
+#profile {
+    width: 175px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+    font-family: 'Concert One', cursive;
+
+
+
+
+
+}
+
+#name {
+    font-size: 50px;
+    font-family: 'Concert One', cursive;
+    color: crimson;
+}
+
+.menu {
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    list-style: none;
+    cursor: pointer;
+    color: crimson;
+    font-size: 30px;
+   font-family: 'Concert One', cursive;
+
+}
+
+.link {
+    float: left;
+    padding: 5px;
+    font-size: 15px;
+  font-family: 'Concert One', cursive;
+    text-decoration: none;
+}
+
+.link:hover {
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+#videos iframe {
+    margin: 10px;
+
+
+}
+
+#Writings a {
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+#Writings a:hover {
+    font-size: 22px;
+    color: black;
+
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.menu a {
+    font-size: 20px;
+    text-decorati;on: none;
+ font-family: 'Concert One', cursive;
+    color: crimson;
+
+    
+
+}
+
+h2 {
+    font-size: 40px;
+ font-family: 'Concert One', cursive;
+    color: crimson;
+    
+}
+
+h3 {
+    font-size: 20px;
+  font-family: 'Concert One', cursive;
+    color: cornsilk;
+}
+
+h2 {
+
+    font-size: 25px;
+   font-family: 'Concert One', cursive; 
+    color: crimson;
+ 
+}
+
+
+h1{
+    font-size: 25px;
+    font-family: 'Concert One', cursive;
+     color: crimson;
+}
+h5{
+    font-size: 20px;
+    font-family: 'Concert One',cursive;
+    color: cornsilk;
+}
+
+h6{
+    font-size: 50px;
+    font-family: 'Concert One',cursive;
+    color: crimson;
+}
+h7{
+    font-size: 25px;
+    font-family: 'Concert One',cursive;
+    color: cornsilk;
+} 
+h8{
+     font-size: 25px;
+    font-family: 'Concert One',cursive;
+    color:cornsilk;
+}
+#pic1{
+    border: 100px;
+    border-color: cornsilk;
+}
+h10{
+   
+     font-size: 25px;
+    font-family: 'Concert One',cursive;
+    color:cornsilk;
+
+}
+h11{
+  
+     font-size: 25px;
+    font-family: 'Concert One',cursive;
+    color:cornsilk;
+
+}
+h9{
+  
+     font-size: 50px;
+    font-family: 'Concert One',cursive;
+    color:crimson;
+
+}
+h12{
+  
+     font-size: 50px;
+    font-family: 'Concert One',cursive;
+    color:crimson;
+
+}
+    
